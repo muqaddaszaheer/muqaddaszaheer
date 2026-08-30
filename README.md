@@ -2,22 +2,22 @@
 
 ### BS Artificial Intelligence Student | AI & ML Enthusiast | Python Developer | Data Analytics
 
-I'm a BS Artificial Intelligence student at the University of Kamalia, passionate about Artificial Intelligence, Machine Learning, Python, and Data Analytics.
+I'm a BS Artificial Intelligence student at the **University of Kamalia**, passionate about Artificial Intelligence, Machine Learning, Python, and Data Analytics.
 
-I enjoy learning new technologies, solving programming problems, and building practical projects that help me improve my technical and analytical skills.
+I enjoy learning new technologies, solving programming problems, and building practical projects that help me strengthen my technical and analytical skills.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 BS Artificial Intelligence Student at the **University of Kamalia**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🤖 Interested in **Artificial Intelligence and Machine Learning**
 - 🐍 Learning and developing with **Python**
 - 📊 Interested in **Data Analytics**
 - 💻 Practicing **C++ and SQL**
 - 🧠 Exploring **AI Agents and practical AI applications**
 - 🚀 Building projects to strengthen my programming and problem-solving skills
-- 📚 Always learning and improving my technical skills
+- 📚 Continuously learning and improving my technical skills
 
 ---
 
@@ -109,13 +109,14 @@ A Python-based cafe management system for menu selection, reservations, home del
 
 Some of my completed certifications include:
 
+- **Google AI Professional Certificate** — Google
+- **Google Data Analytics Professional Certificate** — Google / Coursera
 - **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI / Coursera
 - **Google AI Essentials** — Google / Coursera
 - **Crash Course on Python** — Google / Coursera
-- **Google Data Analytics Professional Certificate** — Google / Coursera
-- **Certificate of Completion: Claude Code 101** — Anthropic Academy
 - **AI for Data Analysis** — Google / Coursera
 - **AI for Research and Insights** — Google / Coursera
+- **Certificate of Completion: Claude Code 101** — Anthropic Academy
 
 ---
 
@@ -148,6 +149,12 @@ I'm currently focused on improving my skills in:
 
 ---
 
+## 🌱 Currently Learning
+
+> Learning consistently, building practical projects, and growing one step at a time.
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in learning, collaborating, and connecting with people interested in AI, technology, and data.
@@ -157,12 +164,6 @@ I'm always interested in learning, collaborating, and connecting with people int
 💼 **LinkedIn:** [Muqaddas Zaheer Ahmad](https://www.linkedin.com/in/muqaddas-zaheer-ahmad-aa59913a7/)
 
 🐙 **GitHub:** [@muqaddaszaheer](https://github.com/muqaddaszaheer)
-
----
-
-## 🌱 Currently Learning
-
-> Learning consistently, building practical projects, and growing one step at a time.
 
 ---
 
