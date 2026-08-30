@@ -1,170 +1,98 @@
-# Hi 👋, I'm Muqaddas Zaheer Ahmad
+<h1 align="center">Hi 👋, I'm Muqaddas Zaheer Ahmad</h1>
 
-### BS Artificial Intelligence Student | AI & ML Enthusiast | Python Developer | Data Analytics
+<h3 align="center">BS Artificial Intelligence Student | AI & Machine Learning Enthusiast | Python Developer</h3>
 
-I'm a BS Artificial Intelligence student at the **University of Kamalia**, passionate about Artificial Intelligence, Machine Learning, Python, and Data Analytics.
-
-I enjoy learning new technologies, solving programming problems, and building practical projects that help me strengthen my technical and analytical skills.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 BS Artificial Intelligence Student at the **University of Kamalia**
-- 🤖 Interested in **Artificial Intelligence and Machine Learning**
-- 🐍 Learning and developing with **Python**
-- 📊 Interested in **Data Analytics**
-- 💻 Practicing **C++ and SQL**
-- 🧠 Exploring **AI Agents and practical AI applications**
-- 🚀 Building projects to strengthen my programming and problem-solving skills
-- 📚 Continuously learning and improving my technical skills
+<p align="center">
+  <img src="assets/coding-girl.gif" alt="Girl coding" width="400">
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👩‍💻 About Me
 
-### Programming
-- Python
-- C++
-- SQL
+- 🎓 BS Artificial Intelligence student at University of Kamalia
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 🐍 Currently building my skills in Python and programming
+- 📊 Learning Data Analytics and working with real-world datasets
+- 🚀 Interested in building practical AI and ML projects
+- 💡 Exploring AI tools, automation, and intelligent applications
+- 📚 Always learning, practicing, and improving my technical skills
 
-### AI & Machine Learning
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muqaddas-zaheer-ahmad-aa59913a7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/muqaddaszaheer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,jupyter" alt="Tech Stack">
+</p>
+
+---
+
+## 🤖 AI & Data
+
+- Artificial Intelligence
 - Machine Learning
-- AI Agents
-- Supervised Learning
-- Data Analysis
-
-### Data & Tools
+- Data Analytics
+- Python
+- SQL
+- Pandas
 - NumPy
-- pandas
-- Matplotlib
-- Jupyter Notebook
-- Git
-- GitHub
+- Scikit-learn
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Rahman AI Student Success Agent
+### 🎓 Rahman AI Student Success Agent
 
-An AI-powered student support assistant designed to provide study guidance, academic planning, practice, assessment, and personalized learning support.
+An AI-powered student learning assistant designed to help students with goal analysis, study planning, practice, assessment, and learning guidance.
 
-**Tech:** AI • JavaScript • Hugging Face • Node.js
+### 📦 On Time, On Point — Delivery Performance & Customer Satisfaction
 
-🔗 [Live Demo](https://rahman-ai-student-success-agent-production.up.railway.app/)  
-🔗 [GitHub Repository](https://github.com/muqaddaszaheer/rahman-ai-student-success-agent)
-
----
-
-### 🧠 Muqaddas AI Learning Assistant
-
-A beginner-friendly AI learning assistant that provides explanations, examples, practice questions, and personalized study plans.
-
-**Tech:** AI • Python • JavaScript
-
-🔗 [Live Demo](https://muqaddas-ai-learning-assistant-production.up.railway.app/)  
-🔗 [GitHub Repository](https://github.com/muqaddaszaheer/muqaddas-ai-learning-assistant)
-
----
-
-### 📊 On Time, On Point — Delivery Performance & Customer Satisfaction
-
-A data analytics capstone project analyzing delivery performance and customer satisfaction using the Brazilian E-Commerce Public Dataset by Olist.
-
-**Tech:** Python • SQL • Power BI • Data Analytics
-
-🔗 [GitHub Repository](https://github.com/muqaddaszaheer/shipright-delivery-performance-analysis)
-
----
-
-### 🎓 Smart Student Result Management System
-
-A Python-based application for managing student results, calculating grades, and displaying academic performance.
-
-**Tech:** Python • Programming Fundamentals
-
-🔗 [GitHub Repository](https://github.com/muqaddaszaheer/smart-student-result-management-system)
-
----
-
-### ☕ ZZS Cafe Management System
-
-A Python-based cafe management system for menu selection, reservations, home delivery, and bill calculation.
-
-**Tech:** Python
-
-🔗 [GitHub Repository](https://github.com/muqaddaszaheer/zzs-cafe-management-system)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Position** — Two Weeks Training of Programming Fundamentals under the Skills Development Program 2026 at the University of Kamalia
-- 🥇 **Gold Medal Achievement Award** — Recognized for achieving 1st position during the second semester
+A data analytics project exploring delivery performance and customer satisfaction using the Brazilian E-Commerce Public Dataset by Olist.
 
 ---
 
 ## 📜 Certifications
 
-Some of my completed certifications include:
-
-- **Google AI Professional Certificate** — Google
-- **Google Data Analytics Professional Certificate** — Google / Coursera
-- **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI / Coursera
-- **Google AI Essentials** — Google / Coursera
-- **Crash Course on Python** — Google / Coursera
-- **AI for Data Analysis** — Google / Coursera
-- **AI for Research and Insights** — Google / Coursera
-- **Certificate of Completion: Claude Code 101** — Anthropic Academy
-
----
-
-## 💼 Experience
-
-### Machine Learning Engineering Intern
-**FlyRank AI — 2026**
-
-Developing practical machine learning and AI skills through assignments, research, projects, and hands-on internship work.
-
-### AI Researcher & Content Creator
-**Computing & Artificial Intelligence Society — 2026**
-
-Exploring AI-related topics and contributing to research and educational content.
-
----
-
-## 📈 My Learning Journey
-
-I'm currently focused on improving my skills in:
-
-- Artificial Intelligence
-- Machine Learning
-- Python
-- Data Analytics
-- SQL
-- AI Agents
-- Problem Solving
-- Software Development
+- Supervised Machine Learning: Regression and Classification
+- Google AI Essentials
+- Crash Course on Python
+- Prompting Essentials
+- Claude Code 101
 
 ---
 
 ## 🌱 Currently Learning
 
-> Learning consistently, building practical projects, and growing one step at a time.
+- Python
+- Machine Learning
+- Data Analytics
+- AI Agents
+- SQL
+- Git & GitHub
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 My Goal
 
-I'm always interested in learning, collaborating, and connecting with people interested in AI, technology, and data.
-
-📧 **Email:** [muqaddaszaheer76@gmail.com](mailto:muqaddaszaheer76@gmail.com)
-
-💼 **LinkedIn:** [Muqaddas Zaheer Ahmad](https://www.linkedin.com/in/muqaddas-zaheer-ahmad-aa59913a7/)
-
-🐙 **GitHub:** [@muqaddaszaheer](https://github.com/muqaddaszaheer)
+To become a skilled AI and Machine Learning professional by continuously learning, building practical projects, and solving real-world problems.
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  <i>Learning • Building • Improving 🚀</i>
+</p>
