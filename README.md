@@ -78,14 +78,6 @@
 
 ---
 
-## 📊 Contribution Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muqaddaszaheer&theme=github-compact" alt="Contribution Graph">
-</p>
-
----
-
 ## 🎯 My Goal
 
 To keep learning, build practical AI and Machine Learning projects, and grow into a skilled AI professional.
