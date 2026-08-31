@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muqaddas Zaheer Ahmad</h1>
-<h3 align="center">BS Artificial Intelligence student | AI & Machine Learning Enthusiast | Python Developer</h3>
+
+<h3 align="center">BS Artificial Intelligence Student | AI & Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
   <img src="assets/coding-girl.gif" alt="Girl coding" width="400">
@@ -9,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 BS Artificial Intelligence student at the University of Kamalia
+- 🎓 BS Artificial Intelligence Student at the University of Kamalia
 - 🌱 Currently learning **Machine Learning, Data Analytics, and AI Agents**
 - 🐍 Practicing Python, C++, SQL, and data analysis tools
 - 🚀 Building practical AI/ML projects, learning assistants, and data case studies
@@ -88,6 +89,14 @@
 ## 🎯 My Goal
 
 To keep learning, build practical AI and Machine Learning projects, and grow into a skilled AI professional.
+
+---
+
+### 👀 Visitor Count
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muqaddaszaheer&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views">
+</p>
 
 ---
 
