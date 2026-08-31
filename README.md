@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muqaddas Zaheer Ahmad</h1>
-<h3 align="center">BS Artificial Intelligence Student | AI & Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">BS Artificial Intelligence student | AI & Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
   <img src="assets/coding-girl.gif" alt="Girl coding" width="400">
@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/muqaddas-zaheer-ahmad-aa59913a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:muqaddaszaheer76@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muqaddaszaheer76@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/muqaddaszaheer">
